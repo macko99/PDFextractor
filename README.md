@@ -22,7 +22,3 @@ YOUR_PDF_FILE.pdf
 23:40
 41:44
 ```
-
-
-## License
-[MIT](https://choosealicense.com/licenses/mit/)
